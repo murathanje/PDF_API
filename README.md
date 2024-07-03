@@ -15,4 +15,15 @@ You must configure ``http://localhost:8055/upload`` and ``ornek_test_auth_token`
 
 ## Then 
 
-run the command:  ``npm i``
+run the command:  
+
+```npm i```
+Open ``ìndex.html``
+```node server.js```
+```node receive.js```
+
+Now, You can test the on ``index.html`` 
+
+
+
+
